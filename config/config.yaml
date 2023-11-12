@@ -1,0 +1,5 @@
+host: 127.0.0.1
+port: 9980
+allOutputStr: aaa
+allOutputByte: !!byte [0xff]
+projectDir: "/home/nemo/GolandProjects/PwnRecoli"
